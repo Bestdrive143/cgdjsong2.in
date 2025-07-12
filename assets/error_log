@@ -1,0 +1,18 @@
+[18-Dec-2016 05:29:08 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/assets/disclaimer.php on line 8
+[18-Dec-2016 05:29:08 UTC] PHP Stack trace:
+[18-Dec-2016 05:29:08 UTC] PHP   1. {main}() /home/djnice2d/public_html/assets/disclaimer.php:0
+[18-Dec-2016 05:29:08 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/assets/disclaimer.php on line 8
+[18-Dec-2016 05:29:08 UTC] PHP Stack trace:
+[18-Dec-2016 05:29:08 UTC] PHP   1. {main}() /home/djnice2d/public_html/assets/disclaimer.php:0
+[18-Dec-2016 05:29:08 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/assets/disclaimer.php on line 8
+[18-Dec-2016 05:29:08 UTC] PHP Stack trace:
+[18-Dec-2016 05:29:08 UTC] PHP   1. {main}() /home/djnice2d/public_html/assets/disclaimer.php:0
+[18-Dec-2016 05:29:08 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/assets/disclaimer.php on line 8
+[18-Dec-2016 05:29:08 UTC] PHP Stack trace:
+[18-Dec-2016 05:29:08 UTC] PHP   1. {main}() /home/djnice2d/public_html/assets/disclaimer.php:0
+[18-Dec-2016 05:29:08 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/assets/disclaimer.php on line 8
+[18-Dec-2016 05:29:08 UTC] PHP Stack trace:
+[18-Dec-2016 05:29:08 UTC] PHP   1. {main}() /home/djnice2d/public_html/assets/disclaimer.php:0
+[18-Dec-2016 05:29:08 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/assets/disclaimer.php on line 8
+[18-Dec-2016 05:29:08 UTC] PHP Stack trace:
+[18-Dec-2016 05:29:08 UTC] PHP   1. {main}() /home/djnice2d/public_html/assets/disclaimer.php:0
