@@ -6,7 +6,7 @@ $config['database']['database'] = "djnice2d_ds";
 $config['database']['table_prefix'] = "";
 
 $config['database']['hostname'] = "localhost";
-$config['database']['username'] = "djnice2d_dse";
+$config['database']['username'] = "djnice2d_cgdj";
 $config['database']['password'] = "";
 
 /**
