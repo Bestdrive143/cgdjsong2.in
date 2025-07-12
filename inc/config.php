@@ -7,7 +7,7 @@ $config['database']['table_prefix'] = "";
 
 $config['database']['hostname'] = "localhost";
 $config['database']['username'] = "djnice2d_dse";
-$config['database']['password'] = "DPratik123";
+$config['database']['password'] = "";
 
 /**
  * Admin CP directory
