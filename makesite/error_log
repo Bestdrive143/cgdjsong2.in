@@ -1,0 +1,84 @@
+[18-Dec-2016 05:25:02 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:02 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:02 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:02 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:02 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:02 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:02 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:02 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:02 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:02 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:02 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:02 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:02 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:02 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:02 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:02 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:02 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:02 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:23 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:23 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:23 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:23 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:23 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:23 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:23 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:23 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:23 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:23 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:23 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:23 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:23 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:23 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:23 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:23 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:23 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:23 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:43 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:43 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:43 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:43 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:43 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:43 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:43 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:43 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:43 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:43 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:43 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:43 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:43 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:43 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:43 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:43 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:43 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:43 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:46 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:46 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:46 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:46 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:46 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:46 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:46 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:46 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:46 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:46 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:46 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:46 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:46 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:46 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:46 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:25:46 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:25:46 UTC] PHP Stack trace:
+[18-Dec-2016 05:25:46 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:28:00 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:28:00 UTC] PHP Stack trace:
+[18-Dec-2016 05:28:00 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:28:00 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:28:00 UTC] PHP Stack trace:
+[18-Dec-2016 05:28:00 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:30:22 UTC] PHP Notice:  Undefined variable: ss in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:30:22 UTC] PHP Stack trace:
+[18-Dec-2016 05:30:22 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
+[18-Dec-2016 05:30:22 UTC] PHP Notice:  Trying to get property of non-object in /home/djnice2d/public_html/makesite/index.php on line 8
+[18-Dec-2016 05:30:22 UTC] PHP Stack trace:
+[18-Dec-2016 05:30:22 UTC] PHP   1. {main}() /home/djnice2d/public_html/makesite/index.php:0
